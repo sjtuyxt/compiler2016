@@ -1,0 +1,197 @@
+now /home/testmachine/compiler2016-testcases/compile_error/arrop-1-5100379071-puyouer.mx
+(3,12)InvalidArrayType: int
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/asiop-1-5100379071-puyouer.mx
+(2,4)InvalidLHS
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/asiop-2-5100379071-puyouer.mx
+(4,8)InvalidLHS
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/asiop-3-5120309049-liaochao.mx
+(2,4)InvalidLHS
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/asiop-4-5120309049-liaochao.mx
+(2,4)TypeNotCompatible: null vs int
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/asiop-5-5100379071-puyouer.mx
+(6,4)InvalidLHS
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/asiop-6-5100379071-puyouer.mx
+(10,4)TypeNotCompatible: int vs A
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/asiop-7-5120309049-liaochao.mx
+(0,0)InvalidInitValueType: null
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/biop-1-5100379071-puyouer.mx
+(9,8)InvalidType: SymbolTable.ClassSymbol@7740a2 vs Plus
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/bitop-1-5120309049-liaochao.mx
+(4,12)TypeNotCompatible: string vs int
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/boop-1-5120309049-liaochao.mx
+(3,8)InvalidType: string vs LogicalAnd
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/class-1-5100379071-puyouer.mx
+(0,0)InvalidVariableDeclaration: f
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/class-2-5120309049-liaochao.mx
+(5,0)RedfineClass:A
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/ctrflow-1-5100379071-puyouer.mx
+(2,4)InvalidWhileStatement:
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/ctrflow-2-5120309049-liaochao.mx
+(2,4)InvalidContinueStatement: 
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/ctrflow-3-5100379071-puyouer.mx
+(5,4)InvalidIfStatement:
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/ctrflow-4-5120309049-liaochao.mx
+(4,4)InvalidWhileStatement:
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/ctrflow-5-5120309049-liaochao.mx
+(4,4)InvalidForStatement:
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/fldop-1-5120309049-liaochao.mx
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/func-1-5100379071-puyouer.mx
+(7,0)ClassTypeName : B Not Found.
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/func-2-5120309049-liaochao.mx
+(1,6)ClassTypeName : A Not Found.
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/func-3-5100379071-puyouer.mx
+(14,4)InvalidFucntionCall: IdentifierExpression: a
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/func-4-5100379071-puyouer.mx
+(7,8)InvalidParameterList: 
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/func-5-5100309127-hetianxing.mx
+(12,4)InvalidParameterList: 
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/func-6-5130309059-lijiajun.mx
+(2,4)InvalidFucntionCall: IdentifierExpression: main
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/func-7-5140309552-wancheng.mx
+(1,0)InvalidMainFunction:
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/incop-1-5120309049-liaochao.mx
+(4,4)InvalidPostfixExpression: string
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/relop-1-5120309049-liaochao.mx
+(14,8)TypeNotCompatible: A vs B
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/relop-2-5120309049-liaochao.mx
+(14,8)TypeNotCompatible: A vs B
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/scope-1-5140519064-youyurong.mx
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/scope-2-5140519064-youyurong.mx
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/var-1-5110379024-wuhang.mx
+(0,0)InvalidVariableType: void
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/var-2-5100309127-hetianxing.mx
+(0,0)InvalidVariableDeclaration: c
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/var-3-5120309049-liaochao.mx
+(3,4)ClassTypeName : A Not Found.
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/compile_error/var-4-5140309552-wancheng.mx
+(0,0)InvalidVariableDeclaration: x
+Compilation Error!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/basicopt1-5100309127-hetianxing.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/builtin-5140519064-youyurong.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/bulgarian-5110379024-wuhang.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/expr-5110309085-jintianxing.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/hanoi-5100379110-daibo.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/hashmap-5100309127-hetianxing.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/heapsort-5100379110-daibo.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/horse2-5100309153-yanghuan.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/horse3-5100309153-yanghuan.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/horse-5100309153-yanghuan.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/lvalue2-5110379024-wuhang.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/magic-5100309153-yanghuan.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/maxflow-5100379110-daibo.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/prime-5100309153-yanghuan.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/qsort-5100379110-daibo.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/queens-5100379110-daibo.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/spill2-5100379110-daibo.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/superloop-5090379042-jiaxiao.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/tak-5090379042-jiaxiao.mx
+Passed!
+Yes
+now /home/testmachine/compiler2016-testcases/passed/twinprime-5090379042-jiaxiao.mx
+Passed!
+Yes
